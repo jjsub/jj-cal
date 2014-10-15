@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-  angular.module('jj-calculator', ['ionic'])
+  angular.module('cm-calculator', ['ionic'])
 
   .run(function($ionicPlatform){
     $ionicPlatform.ready(function(){
